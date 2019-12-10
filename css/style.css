@@ -47,7 +47,7 @@ a {
 }
 
 .header-a {
-    font-size: 2.8rem;
+    font-size: 2.3rem;
     font-weight: 700;
     color: #fff;
 }
@@ -75,6 +75,8 @@ a {
     color: #000;
     background-color: #1abc9c;
     transition: all 0.5s;
+    margin-left: -3rem;
+    margin-right: 1rem;
 
 }
 
