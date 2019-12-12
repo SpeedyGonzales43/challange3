@@ -59,6 +59,12 @@ body {
     margin: 0 0.625rem;
 }
 
+@media screen and (max-width:992px) {
+
+    .fixed-top {
+        position: static;
+    }
+}
 
 /*Header Section*/
 .header {
